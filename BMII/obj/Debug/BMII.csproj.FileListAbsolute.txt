@@ -1,0 +1,8 @@
+C:\Users\Pawel\Desktop\Prace domowe\klasy\BMII\bin\Debug\BMII.exe.config
+C:\Users\Pawel\Desktop\Prace domowe\klasy\BMII\bin\Debug\BMII.exe
+C:\Users\Pawel\Desktop\Prace domowe\klasy\BMII\bin\Debug\BMII.pdb
+C:\Users\Pawel\Desktop\Prace domowe\klasy\BMII\obj\Debug\BMII.csproj.AssemblyReference.cache
+C:\Users\Pawel\Desktop\Prace domowe\klasy\BMII\obj\Debug\BMII.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pawel\Desktop\Prace domowe\klasy\BMII\obj\Debug\BMII.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\Desktop\Prace domowe\klasy\BMII\obj\Debug\BMII.exe
+C:\Users\Pawel\Desktop\Prace domowe\klasy\BMII\obj\Debug\BMII.pdb
