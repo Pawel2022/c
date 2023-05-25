@@ -1,8 +1,0 @@
-C:\Users\Pawel\Desktop\nowagra\nowagra\bin\Debug\nowagra.exe.config
-C:\Users\Pawel\Desktop\nowagra\nowagra\bin\Debug\nowagra.exe
-C:\Users\Pawel\Desktop\nowagra\nowagra\bin\Debug\nowagra.pdb
-C:\Users\Pawel\Desktop\nowagra\nowagra\obj\Debug\nowagra.csproj.AssemblyReference.cache
-C:\Users\Pawel\Desktop\nowagra\nowagra\obj\Debug\nowagra.csproj.SuggestedBindingRedirects.cache
-C:\Users\Pawel\Desktop\nowagra\nowagra\obj\Debug\nowagra.csproj.CoreCompileInputs.cache
-C:\Users\Pawel\Desktop\nowagra\nowagra\obj\Debug\nowagra.exe
-C:\Users\Pawel\Desktop\nowagra\nowagra\obj\Debug\nowagra.pdb
