@@ -1,0 +1,16 @@
+C:\Users\Pawel\Desktop\Nowy folder (3)\Play\obj\Debug\Play.csproj.AssemblyReference.cache
+C:\Users\Pawel\Desktop\Nowy folder (3)\Play\obj\Debug\Play.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pawel\Desktop\Nowy folder (3)\Play\obj\Debug\Play.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\Desktop\Nowy folder (3)\Play\bin\Debug\Play.exe.config
+C:\Users\Pawel\Desktop\Nowy folder (3)\Play\bin\Debug\Play.exe
+C:\Users\Pawel\Desktop\Nowy folder (3)\Play\bin\Debug\Play.pdb
+C:\Users\Pawel\Desktop\Nowy folder (3)\Play\obj\Debug\Play.exe
+C:\Users\Pawel\Desktop\Nowy folder (3)\Play\obj\Debug\Play.pdb
+C:\Users\Pawel\Desktop\Granowa(MKII)\Play\bin\Debug\Play.exe.config
+C:\Users\Pawel\Desktop\Granowa(MKII)\Play\bin\Debug\Play.exe
+C:\Users\Pawel\Desktop\Granowa(MKII)\Play\bin\Debug\Play.pdb
+C:\Users\Pawel\Desktop\Granowa(MKII)\Play\obj\Debug\Play.csproj.AssemblyReference.cache
+C:\Users\Pawel\Desktop\Granowa(MKII)\Play\obj\Debug\Play.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pawel\Desktop\Granowa(MKII)\Play\obj\Debug\Play.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\Desktop\Granowa(MKII)\Play\obj\Debug\Play.exe
+C:\Users\Pawel\Desktop\Granowa(MKII)\Play\obj\Debug\Play.pdb
